@@ -1,0 +1,60 @@
+# Node modules
+node_modules/
+
+# Build output
+/dist
+/build
+/.next
+/.parcel-cache
+/.vite
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+
+# TypeScript and JavaScript
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.*.local
+
+# Dependency directories
+bower_components/
+
+# npm package lock
+package-lock.json
+yarn.lock
+
+# Next.js build output
+.next/
+
+# React Native
+*.expo
+
+# Debug and test directories
+*.test.js
+*.test.ts
+*.spec.js
+*.spec.ts
+coverage/
+
+# Tye
+.tye/
+
+# Parcel
+.cache/
+
+# Vercel
+.vercel/
+
+# Firebase
+firebase-debug.log
+firebase-config.json
